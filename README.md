@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Elizabeth  
 
-I'm a Computer Science student in my Sophomore year. I started programming at 14 using C#. Nowadays my go-to language is Python, when I have the choice. Også jeg kan norsk og jeg vil få norske venner 
+I'm a Computer Science student in my Sophomore year. I started programming at 14 using C# but nowadays my go-to language is Python.  
 
 - 🔭 I’m currently working on a third person game in Unreal Engine
 - 🌱 I’m currently learning C / C++
