@@ -3,7 +3,7 @@
 I'm a Computer Science student in my Sophomore year. I started programming at 14 using C# but nowadays my go-to language is Python.  
 
 - 🔭 I’m currently working on a third person game in Unreal Engine
-- 🌱 I’m currently learning C / C++
+- 🌱 I’m currently learning C# / ReactJS
 - 💬 Feel free to send me a message here or connect on LinkedIn!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethgraham&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
