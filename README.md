@@ -1,9 +1,8 @@
 # 👋 Hi there! I'm Elizabeth  
 
-I'm a Computer Science student in my Sophomore year. I started programming at 14 using C# but nowadays my go-to language is Python.  
+I'm a DevOps Engineer and overall nerd. I started programming at 14 using C# but nowadays my go-to language is Python. I have more mechanical keyboards than any well adjusted adult should.
 
-- 🔭 I’m currently working on a third person game in Unreal Engine
-- 🌱 I’m currently learning C# / ReactJS
+- 🌱 I’m currently learning more about AWS
 - 💬 Feel free to send me a message here or connect on LinkedIn!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethgraham&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
